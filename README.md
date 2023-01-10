@@ -19,7 +19,8 @@
 - Preview of New Chat Window:
 <img src="https://user-images.githubusercontent.com/65996001/211465328-1afa8544-8faf-4811-871d-37d0c3939279.png" width=50% height=50%>
 
-- Preview of Chat Window:
+- Sample image of actual WhatsApp Web:
+<img src="https://user-images.githubusercontent.com/65996001/211469638-dd547808-360c-422d-9f73-b8dca1bc169c.png" width=50% height=50%?
 
 
 
