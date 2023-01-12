@@ -2,10 +2,10 @@
  - Cloned the WhatsApp Web Application using the MERN Stack
 
  - Technologies Used: 
-      Frontend: React.js & Material-UI 
-      Backend: Node.js & Express.js 
-      Database: MongoDB 
-      Real Time Chatting: socket.io
+      - Frontend: React.js & Material-UI 
+      - Backend: Node.js & Express.js 
+      - Database: MongoDB 
+      - Real Time Chatting: socket.io
 
 - Connected Database (MongoDB):
 <img src="https://user-images.githubusercontent.com/65996001/211464031-eca59086-e1ac-4fef-b32b-d95eb9433c8e.png" width=50% height=50%>
