@@ -1,4 +1,4 @@
-# WhatsappWeb-Clone
+# WhatsApp Web Clone
  - Cloned the WhatsApp Web Application using the MERN Stack
 
  - Technologies Used: 
