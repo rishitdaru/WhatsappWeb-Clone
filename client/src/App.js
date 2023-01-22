@@ -12,7 +12,6 @@ const Messenger = lazy(() => import('./components/Messenger'));
 
 function App() {
 
-  // const clientId = '246648691460-bsj1rub53iami1btvii0577h1on2je01.apps.googleusercontent.com';
   const clientId = '423121447523-tqqis0g3barke9mgmbi64qb4nekur3vj.apps.googleusercontent.com';
 
   return (
