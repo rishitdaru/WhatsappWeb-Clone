@@ -1,4 +1,4 @@
-# WhatsApp Web Clone
+# ChatterWeb ( a WhatsApp Web Clone)
  - Cloned the WhatsApp Web Application using the MERN Stack
 
  - Technologies Used: 
